@@ -140,11 +140,11 @@ class StudentManagementSystem {
 
 let system = new StudentManagementSystem();
 
-system.addStudent(101, "Rahul", 95);
-system.addStudent(102, "Priya", 82);
-system.addStudent(103, "Kiran", 67);
+system.addStudent(101, "Ganesh", 95);
+system.addStudent(102, "Sumanth", 82);
+system.addStudent(103, "Kishore", 67);
 system.addStudent(104, "Suresh", 45);
-system.addStudent(105, "Anitha", 91);
+system.addStudent(105, "Praneeth", 91);
 
 system.displayStudents();
 system.findTopper();
